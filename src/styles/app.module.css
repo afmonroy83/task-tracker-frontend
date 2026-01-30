@@ -1,0 +1,17 @@
+.container {
+    width: 100%;
+    max-width: 480px;
+  
+    margin: 3rem auto;
+    padding: 2rem;
+  
+    font-family: system-ui, sans-serif;
+    border-radius: 8px;
+    background: #9c2d2d;
+  
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  
+    /* Responsive safety */
+    box-sizing: border-box;
+  }
+  
